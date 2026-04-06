@@ -22,3 +22,6 @@ To ensure safe usage:
 
 * Avoid modifying engine files without understanding the code
 * Keep your Python environment secure
+
+---
+Thank you for helping improve the project ❤
