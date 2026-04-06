@@ -46,7 +46,7 @@ The core engine should remain:
 * Lightweight
 * Free of external dependencies
 
-If your feature requires a third-party library, then:
+If your feature requires a third-party library:
 
 * Place it in `requirements.txt` file
 * Or make it optional
