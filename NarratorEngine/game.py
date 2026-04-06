@@ -69,7 +69,7 @@ class Game:
             new_level,
             new_level_section: str = None
     ) -> None:
-        from constants import LEVEL_SECTION_PREFIX
+        from NarratorEngine.constants import LEVEL_SECTION_PREFIX
         if self.current_level:
             self.current_level.close()
         self.current_level = new_level

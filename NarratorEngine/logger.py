@@ -4,7 +4,7 @@ from NarratorEngine.subsystem import SubSystem
 
 
 class Logger(SubSystem):
-    from constants import TXT_COLOR_DEFAULT, TXT_COLOR_YELLOW, TXT_COLOR_RED
+    from NarratorEngine.constants import TXT_COLOR_DEFAULT, TXT_COLOR_YELLOW, TXT_COLOR_RED
 
     message_types_map = {
         'NOTE': TXT_COLOR_DEFAULT,
